@@ -5,10 +5,25 @@
 > publique simulados novos aqui sem quebrar nada. Não delete, não mova.
 > Atualize-o sempre que o processo mudar.
 
-## 0. A regra de ouro (instrução do dono do repo, 15/10/2026)
+## 0. A regra de ouro (instruções do dono do repo, 15/10/2026)
 
 > "Toda vez que fizer um simulado ou README novo ou diferente, faz upload
 > lá pro repositório."
+
+> **"Toda vez que mudar de sessão, leia todos os markdowns do repo."**
+> (instituído 15/10/2026)
+
+**Boa prática de início de sessão (nesta ordem):**
+
+1. `/home/z/my-project/worklog.md` — memória canônica (últimas Tasks)
+2. Os três markdowns deste repo: `README.md`,
+   `PROCESSO-DE-ENTREGA.md` (este), `Contexto-Completo-Inteli-2027.md`
+3. `scripts/simulado_imgs/manifest.json` — estado do banco (usadas/virgens)
+
+O worklog pode ter gaps (sessão morreu antes de gravar — ver Task 103):
+se a última Task não bater com o estado real do repo, reconciliar via
+`git -C /home/z/my-project/inteli_repo log --oneline` e registrar a
+diferença ANTES de trabalhar.
 
 Toda publicação segue o mesmo ciclo: **gerar → QA → copiar pra `simulados/`
 → atualizar `README.md` → commit → push → verificar → registrar**. Pular
