@@ -54,4 +54,8 @@ da tabela "revise em" (capítulo de origem de cada questão).
   (CAP 1–18), do aritmético ao avançado (progressões, combinatória, matrizes,
   função quadrática, exponencial/log, geometria analítica, trigonometria,
   circunferências e raciocínio lógico).
+- O processo de produção e publicação desta série (pipeline, QA,
+  autenticação, checklist de publicação) está documentado em
+  [`PROCESSO-DE-ENTREGA.md`](PROCESSO-DE-ENTREGA.md) — manual operacional
+  do assistente que mantém esta série.
 - Material de estudo pessoal; os direitos das questões são da Inteli.
