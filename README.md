@@ -58,4 +58,8 @@ da tabela "revise em" (capítulo de origem de cada questão).
   autenticação, checklist de publicação) está documentado em
   [`PROCESSO-DE-ENTREGA.md`](PROCESSO-DE-ENTREGA.md) — manual operacional
   do assistente que mantém esta série.
+- [`Contexto-Completo-Inteli-2027.md`](Contexto-Completo-Inteli-2027.md) —
+  documento de transferência de contexto do acompanhamento (estado completo
+  da preparação). Publicado por decisão do dono do repo; remoção futura
+  por conta dele.
 - Material de estudo pessoal; os direitos das questões são da Inteli.

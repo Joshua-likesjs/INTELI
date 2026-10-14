@@ -27,6 +27,7 @@ qualquer passo desta lista = merda. Não existe "depois eu subo".
 | `/home/z/my-project/scripts/simN_build.py` | Montagem do PDF final (padrão: `sim7_build.py`) |
 | `/home/z/my-project/scripts/inteli_simulado_build.py` | Módulo de estilo compartilhado (cores, fontes, estilos) |
 | `/home/z/my-project/worklog.md` | **Memória canônica multi-sessão** — ler antes de tudo, escrever depois de tudo |
+| `Contexto-Completo-Inteli-2027.md` (raiz do repo) | Espelho público do documento de transferência de contexto do aluno — **DECISÃO DO DONO (15/10): publicado temporariamente com dados pessoais, ele mesmo remove depois** |
 | `/home/z/my-project/upload/Inteli-2024.pdf` `Inteli-2025.pdf` | Cadernos oficiais (fonte dos recortes) |
 
 ## 2. Pipeline de um simulado novo
@@ -131,7 +132,12 @@ Conferência: `curl -sI http://localhost:3000/download/<arquivo>`
 - Questões 100% reais dos cadernos oficiais — nada inventado.
 - Gabarito sempre na última página, conferido contra o oficial.
 - Zero vazamento de gabarito nas páginas de questões (scan anti-amarelo).
-- Zero dado pessoal do aluno em arquivo publicado aqui (o repo é público).
+- **DADOS PESSOAIS: o `Contexto-Completo` na raiz contém dados do aluno
+  POR DECISÃO EXPRESSA DO DONO DO REPO ("momentaneamente, depois só eu
+  tiro"). Não remover, não editar, não "sanitizar" por iniciativa própria
+  — o dono cuida disso. Se ele pedir remoção no futuro: apagar do repo E
+  reescrever o histórico do git (o dado fica nos commits antigos — avisar
+  ele disso; remover arquivo não remove histórico).**
 - README principal = vitrine da série; detalhes operacionais ficam NESTE
   arquivo.
 - Idioma: português (língua do aluno e do dono do repo).
