@@ -35,6 +35,7 @@ A prova de matemática é **adaptativa em 4 blocos**:
 | 5 | `simulados/05-Simulado-5-A-Prova-do-Conserto.pdf` | Consolidação do protocolo de duas passadas |
 | 6 | `simulados/06-Simulado-6-A-Prova-da-Familia.pdf` | Trigonometria e circunferências em peso (fronteira do volume 3) |
 | 7 | `simulados/07-Simulado-7-A-Prova-Geral.pdf` | Prova geral: 13 capítulos distintos numa única prova — cobertura total |
+| 8 | `simulados/08-Simulado-8-A-Ultima-Prova.pdf` | A última da série: 100% re-exposição — 17 questões do arquivo das quedas + 7 de chão; Bloco 4 = as 4 portas nunca abertas (decoder tan θ ×2, forma harmônica, tangentes do ponto externo) |
 
 O gabarito de cada simulado está na **última página** do próprio PDF, junto
 da tabela "revise em" (capítulo de origem de cada questão).
