@@ -1,9 +1,11 @@
-# INTELI — Simulados do Eixo Prova
+# INTELI — Simulados do Processo Seletivo
 
-Série de simulados de matemática para o **Eixo Prova do processo seletivo
-da Inteli**, montados no formato oficial do edital 2027. Todas as questões
-são **recortes integrais dos cadernos oficiais** da Inteli (2022.1 a 2025) —
-nenhuma questão inventada, nenhum gabarito não oficial.
+**Eixo Prova** (matemática — série S1–S8 abaixo) e **Eixo Projeto**
+(dinâmica de grupo — pasta [`eixo-projeto/`](eixo-projeto/)).
+
+A série de matemática foi montada no formato oficial do edital 2027. Todas as
+questões são **recortes integrais dos cadernos oficiais** da Inteli (2022.1 a
+2025) — nenhuma questão inventada, nenhum gabarito não oficial.
 
 ## O formato (edital 2027)
 
@@ -48,6 +50,22 @@ da tabela "revise em" (capítulo de origem de cada questão).
 3. **Passada 2** (toda a sobra): refaça a aritmética em ordem diferente,
    confira magnitudes e marque exatamente **1 X por bloco**.
 4. Só confira o gabarito depois das duas passadas e do cartão marcado.
+
+## Eixo Projeto — dinâmica de grupo (04/11)
+
+Kit novo (out/2026) para a dinâmica de grupo do Eixo Projeto: cenários
+qualitativos no formato das fichas do guia oficial de estudo da Inteli
+(ODS 11 — cidades e comunidades sustentáveis), com correção por **rubrica**
+em vez de gabarito.
+
+| Arquivo | Conteúdo |
+|---------|----------|
+| [`eixo-projeto/README.md`](eixo-projeto/README.md) | Índice + plano de estudo até 04/11 |
+| [`eixo-projeto/01-card-de-bolso.md`](eixo-projeto/01-card-de-bolso.md) | Lentes do ODS 11, dados-âncora, soluções modelo, frases |
+| [`eixo-projeto/02-simulado-1-igarape-do-junco.md`](eixo-projeto/02-simulado-1-igarape-do-junco.md) | Enchente urbana — lentes resiliente + inclusiva |
+| [`eixo-projeto/03-simulado-2-distrito-norte.md`](eixo-projeto/03-simulado-2-distrito-norte.md) | Mobilidade — lente inclusiva |
+| [`eixo-projeto/04-simulado-3-vila-bebedouro.md`](eixo-projeto/04-simulado-3-vila-bebedouro.md) | Saneamento — lentes segura + inclusiva |
+| [`eixo-projeto/05-rubrica-e-auto-avaliacao.md`](eixo-projeto/05-rubrica-e-auto-avaliacao.md) | Rubrica de correção 0–10 + espelho de recall |
 
 ## Notas
 
