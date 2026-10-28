@@ -29,7 +29,7 @@ mais que defender uma opção.
 | Solução | Cidade | Lição |
 |---------|--------|-------|
 | Jardins de chuva | São Paulo | Verde, barato, local — **soma** com o bairro em vez de impor por cima |
-| Metrocable | Medellín | Periferia merece **infraestrutura digna**, não paliativo |
+| Metrocable | Medellín | Periferia merece **infraestrutura digna** — e a mesma obra que beneficia a maioria pode custar a casa da minoria: **quem saiu perdendo? Como compensar?** (não existe obra sem custo humano; existe obra **com** compensação) |
 | Superquadras | Barcelona | Serviços a **pé** cortam o deslocamento na origem |
 
 ## Munição (usar UMA vez, como credencial)
