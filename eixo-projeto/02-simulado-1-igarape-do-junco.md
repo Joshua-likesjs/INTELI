@@ -44,4 +44,5 @@ dia 4.
 
 | Data | Nota (0–10) | O que repetir na próxima |
 |------|-------------|--------------------------|
+| 27/10 · rodada 1 | 4/10 | Nomear 1 lente em voz alta · soltar 1 dado (73% ou 90M) · perguntar "quem fica de fora?" em cada opção |
 |      |             |                          |
