@@ -17,6 +17,7 @@ por **rubrica**, não por gabarito.
 | 3 | [`03-simulado-2-distrito-norte.md`](03-simulado-2-distrito-norte.md) | Mobilidade — inclusiva |
 | 4 | [`04-simulado-3-vila-bebedouro.md`](04-simulado-3-vila-bebedouro.md) | Saneamento — segura + inclusiva |
 | 5 | [`05-rubrica-e-auto-avaliacao.md`](05-rubrica-e-auto-avaliacao.md) | Como cada resposta é corrigida (0–10) |
+| — | [`Inteli-Eixo-Projeto-Simulado-2-Distrito-Norte.pdf`](Inteli-Eixo-Projeto-Simulado-2-Distrito-Norte.pdf) | Simulado 2 em PDF para revisão do mentor: cenário + resposta em transcrição + rubrica aplicada + perguntas de calibração |
 
 ## Como usar
 
