@@ -40,4 +40,4 @@ e é exatamente onde candidatos tech passam reto e quem pensa em gente brilha.
 
 | Data | Nota (0–10) | O que repetir na próxima |
 |------|-------------|--------------------------|
-|      |             |                          |
+| 29/10/2026 | 7 → 8 (replay: âncora 90M no fecho veio da memória) | Abrir com gente, não estatística; prender a frase-âncora ("90M = quase metade do Brasil"); 34M é dado de água, não esgoto; convidar grupo de verdade |
