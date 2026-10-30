@@ -44,4 +44,4 @@ Feche com o trade-off nomeado: preservar a pedra × manter quem vive nela.
 
 | Data | Nota (0–10) | O que repetir na próxima |
 |------|-------------|--------------------------|
-|      |             |                          |
+| 30/10 | 7 | FEITO "SEM QUERER" (executou o calendário v1 😄). Armadilha morta com nome técnico: gentrificação DEFINIDA + situada em Manaus; economia do cortiço; (b) defendida com a lógica Barcelona sem citar; "crítica não é briga" virou arma de abertura (transferência da r3). Vermelhos confirmados: abertura procedural (4º seguido), 30% sem fonte DE NOVO (2ª reincidência), re-explicou o cenário pra sala ~90s (2ª vez). NOVO: análise toda a favor da (b) e voto NÃO dito no fim — fechar com posição. Tom: morador protagonista, não cenário de miséria |
