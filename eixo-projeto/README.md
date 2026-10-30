@@ -32,7 +32,10 @@ por **rubrica**, não por gabarito.
 2. Responda um simulado **em tópicos curtos, do jeito que falaria na roda** —
    não é redação, é ensaio de fala.
 3. Auto-avalie com a rubrica (ou mande a resposta pro mentor corrigir).
-4. Dias depois, repita o mesmo cenário em rodada 2 — a tabela de rodadas no
+4. **Regra fixa (pedido do candidato, 30/10): toda resposta entregue recebe
+   nota imediata pela rubrica — o árbitro entrega a nota e o placar junto,
+   sem esperar pedido.**
+5. Dias depois, repita o mesmo cenário em rodada 2 — a tabela de rodadas no
    fim de cada simulado registra nota e o que repetir.
 
 ## Plano até o dia 4 (calendário completo — todos os sims + revisão de erros)

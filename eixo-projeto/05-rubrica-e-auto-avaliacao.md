@@ -19,6 +19,8 @@ Cada resposta de simulado é corrigida em 5 critérios, **0–2 por item**.
    simulado.
 4. Na rodada 2, o alvo é **+2 no total** — não a nota máxima. Degrau por
    degrau.
+5. **Regra fixa (pedido do candidato, 30/10): toda resposta sai com nota
+   imediata — e com o placar geral atualizado. Sem VAR-request, sem espera.**
 
 ## Espelho de recall (auto-teste de cabeça, livro fechado)
 
