@@ -14,17 +14,22 @@
 | 4 — Morro do Sossego | 30/10 | 6 → 8 → 9,5 | ✅ selado (roleplay, 3 rodadas) |
 | 5 — Vila do Aterro | — | — | ⬜ próximo da fila |
 | 6 — Zona Quente | — | — | ⬜ mock frio (lacrado) |
-| 7 — Bairro do Carmo | 30/10 | 7,5 | ✅ feito "sem querer" (recurso julgado: +0,5 verdade · −0,5 metralhadora) |
+| 7 — Bairro do Carmo | 30/10 | 8 | ✅ feito "sem querer" (recurso final: metralhadora ANULADA — 2 âncoras certeiras, não 4) |
 | 8 — Porto Sereno | — | — | ⬜ |
 | 9 — Praça das Luzes | — | — | ⬜ |
 | 10 — Feira do Cobre | — | — | ⬜ reserva |
+
+> **VAR do candidato: 3 recursos, 3 vitórias** (sim 3, sim 7 ×2 — o segundo
+> anulou erro de contagem do próprio árbitro). Recorrer COM FONTE é pensamento
+> crítico treinado. Mas atenção: **quarta-feira não tem VAR** — o alvo agora é
+> a resposta certa no primeiro apito, porque a banca não ouve recurso.
 
 ## 🔴 Os 3 vermelhos (padrões que se repetem — versão 30/10)
 
 | # | Padrão | Onde apareceu | O antídoto (uma frase) |
 |---|--------|---------------|------------------------|
 | 1 | **Abertura sem gente** — estatística, procedimento ou "então, Rafa..." na 1ª frase | Sim 2, Sim 3, Sim 4, **Sim 7** (4 sims seguidos — HÁBITO CONFIRMADO). **Nunca deu 2 no critério 1** | Primeira frase = pessoa. "Tem gente pagando quartinho de cortiço a preço de apartamento." O dado entra DEPOIS, como reforço |
-| 2 | **Dado-âncora errático** — oscila entre não usar e metralhadora | Sims 1, 2, 3, 4, 7. **CORREÇÃO 30/10: o 30%, o 6M/8,3% e o 16,4M estão SIM no guia oficial (ficha Moradia, Fundação João Pinheiro)** — flagra do árbitro anulado; âncoras validadas. O que resta do padrão: UM por resposta, de memória, com a frase colada. RECURSO JULGADO 30/10: 7 → 7,5 — 0,5 devolvido pela verdade, 0,5 retido pela metralhadora | UM por resposta, de memória, com a frase-âncora colada. Fonte = guia oficial ou card — dado de fora desses → não fala |
+| 2 | **Dado-âncora errático** — oscila entre não usar e enxerto | Sims 1, 2, 3, 4; **Sim 7: LIMPO** — 2 âncoras (6M + 30%) descrevendo exatamente a população do cenário, fonte no guia oficial (ficha Moradia, FJP), critério 3 em 2/2. A "metralhadora" do 7 era erro de contagem do árbitro — anulada. **Se o Sim 5 confirmar, promote 🟢** | O número tem que SER a pessoa que você acabou de apresentar (régua do sim 7). Fonte = guia oficial ou card, frase colada — dado de fora desses → não fala |
 | 3 | **Capitulação por harmonia** — ceder o insight ou o nome da síntese pra comprar paz | Sim 4 r1, r2 — CURADO na r3, e o antídoto virou arma de abertura no sim 7 ("crítica não é briga"). Em monitorização: mantido, mas sem nova queda | "Discordar não é brigar — é o trabalho." Quem batiza a síntese, fica com ela |
 
 ## 🟡 Em observação (apareceu, ainda sem padrão confirmado)
