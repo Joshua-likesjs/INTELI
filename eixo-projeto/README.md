@@ -35,23 +35,22 @@ por **rubrica**, não por gabarito.
 4. Dias depois, repita o mesmo cenário em rodada 2 — a tabela de rodadas no
    fim de cada simulado registra nota e o que repetir.
 
-## Plano até o dia 4
+## Plano até o dia 4 (calendário completo — todos os sims + revisão de erros)
 
-| Dia | O que fazer |
-|-----|-------------|
-| 27–28/10 | Simulado 1 — Igarapé do Junco |
-| 28–29/10 | Correção + Simulado 2 — Distrito Norte |
-| 29/10 | Correção + Simulado 3 — Vila Bebedouro (feito; nota 8 no replay). Sobrar gás? Sim 4 solo, sem roleplay ainda |
-| 30/10 | Roleplay Sim 4 (mentor = candidato tech-first) + Sim 7 — Bairro do Carmo |
-| 31/10 | Sim 5 — Vila do Aterro + rodada 2 surpresa (um dos sims 1–3 volta com variável nova, sem aviso) |
-| 01/11 | **Leve** — manhã: Sim 8 — Porto Sereno (bloco curto, 30 min). 17h: Entrevista Social — só logística depois disso |
-| 02/11 | Mock frio: Sim 6 — Zona Quente (manhã, uma tentativa só) + Sim 9 — Praça das Luzes (tarde) |
-| 03/11 | **NADA.** Descanso total (rotina controlada = anti-ansiedade) |
-| 04/11 | Manhã livre, almoço leve, card de bolso (60s) no máximo até 14h, chegada adiantada — 16h: dinâmica |
+**Feitos:** Sim 1 (4) · Sim 2 (7,5) · Sim 3 (7→8) · Sim 4 (6→8→9,5, roleplay selado)
+**Faltam:** Sim 5, 6, 7, 8, 9, 10 + rodada 2 surpresa + revisões.
 
-**Sim 10 — Feira do Cobre é reserva:** entra se algum dia cair; senão leitura leve na sobra de gás. Nunca obrigatório.
+| Dia | Blocos | O que fazer |
+|-----|--------|-------------|
+| **SEX 31/10** | 3 × 40 min | Manhã: **Sim 5 — Vila do Aterro** (solo → correção) · Tarde: **Sim 7 — Bairro do Carmo** · Noite: 🔄 **Rodada 2 surpresa** (um dos sims 1–3, variável nova, sem aviso) · Fecho: 📓 **diário de erros #1** (10 min — protocolo no `13-diario-de-erros.md`) |
+| **SÁB 01/11** | 1 × 30 min | Manhã: **Sim 8 — Porto Sereno** · Tarde: NADA — logística (câmera, mic, doc, responsável) · **16h50 na sala → 17h–18h Entrevista Social** · Depois: descanso, zero estudo |
+| **DOM 02/11** | 4 blocos curtos | Manhã: 🥶 **Mock frio — Sim 6 (Zona Quente)**: card 60s → cenário → gravar → 12 min → UMA tentativa → armadilha → rubrica · Tarde: **Sim 9 — Praça das Luzes** · Fim de tarde: **Sim 10 — Feira do Cobre** (fecha o kit de 10) · Noite: 📓 **Revisão geral de erros** (20 min): 10 tabelas → papel "MEUS 3 VERMELHOS" |
+| **SEG 03/11** | 0 | **NADA.** Descanso total. Se a ansiedade pedir: 3 vermelhos + card (60s), só à noite |
+| **TER 04/11** | — | Manhã livre · almoço leve · **14h: card (60s) + 3 vermelhos (60s) — e fecha o papel** · chegada adiantada · **16h: dinâmica** |
 
-**Prioridade se o tempo apertar (nessa ordem):** roleplay do dia 30 → rodada 2 surpresa do dia 31 → mock frio do dia 02. Os três formatos são insubstituíveis; cenário novo, não.
+**Prioridade se o dia apertar (nesta ordem):** rodada 2 surpresa → mock frio → revisão geral → Sim 9 → Sim 10. Formato e revisão não se cortam; cenário sim.
+
+**Sim 10 é o cortável por design** — se o 02/11 engrossar, ele vira leitura leve.
 
 **Regra da semana:** tempo extra = espaçamento, não volume. O inimigo não é
 falta de material — é a diluição ("deixo pra amanhã" sete vezes seguidas).
