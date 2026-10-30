@@ -44,4 +44,9 @@ Feche com o trade-off nomeado: preservar a pedra × manter quem vive nela.
 
 | Data | Nota (0–10) | O que repetir na próxima |
 |------|-------------|--------------------------|
-| 30/10 | 7 | FEITO "SEM QUERER" (executou o calendário v1 😄). Armadilha morta com nome técnico: gentrificação DEFINIDA + situada em Manaus; economia do cortiço; (b) defendida com a lógica Barcelona sem citar; "crítica não é briga" virou arma de abertura (transferência da r3). Vermelhos: abertura procedural (4º seguido), re-explicou o cenário pra sala ~90s (2ª vez). NOVO: análise toda a favor da (b) e voto NÃO dito no fim — fechar com posição. Tom: morador protagonista, não cenário de miséria. CORREÇÃO póstuma: os dados 6M/8,3%/30%/16,4M estão no guia oficial (FJP) — âncoras validadas, flagra do árbitro anulado |
+| 30/10 | 7,5 | FEITO "SEM QUERER" (executou o calendário v1 😄). Armadilha morta com nome técnico: gentrificação DEFINIDA + situada em Manaus; economia do cortiço; (b) defendida com a lógica Barcelona sem citar; "crítica não é briga" virou arma de abertura (transferência da r3). Vermelhos: abertura procedural (4º seguido), re-explicou o cenário pra sala ~90s (2ª vez). NOVO: análise toda a favor da (b) e voto NÃO dito no fim — fechar com posição. Tom: morador protagonista, não cenário de miséria. CORREÇÃO póstuma: os dados 6M/8,3%/30%/16,4M estão no guia oficial (FJP) — âncoras validadas, flagra do árbitro anulado. RECURSO JULGADO: 7 → 7,5 — a verdade devolve 0,5; a metralhadora retém 0,5 (critério 3 pede UM natural; 4 âncoras numa fala — precedente do sim 4 r2) |
+
+> **Pendência da r1:** o Rafa foi convidado e nunca respondeu — a fala dele
+> chegou depois do apito. Exercício aberto (vira rodada 2): responder ao Rafa
+> = crédito pelo nome + âncora certa do card (4ª chance dela) + síntese que
+> engole a contribuição sem perder o batismo.

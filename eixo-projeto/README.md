@@ -37,16 +37,16 @@ por **rubrica**, não por gabarito.
 
 ## Plano até o dia 4 (calendário completo — todos os sims + revisão de erros)
 
-**Feitos:** Sim 1 (4) · Sim 2 (7,5) · Sim 3 (7→8) · Sim 4 (6→8→9,5, roleplay selado)
-**Faltam:** Sim 5, 6, 7, 8, 9, 10 + rodada 2 surpresa + revisões.
+**Feitos:** Sim 1 (4) · Sim 2 (7,5) · Sim 3 (7→8) · Sim 4 (6→8→9,5, roleplay selado) · Sim 7 (7,5)
+**Faltam:** Sim 5, 6, 8, 9, 10 + rodada 2 surpresa + revisões.
 
 | Dia | Blocos | O que fazer |
 |-----|--------|-------------|
-| **SEX 31/10** | 3 × 40 min | Manhã: **Sim 5 — Vila do Aterro** (solo → correção) · Tarde: **Sim 7 — Bairro do Carmo** · Noite: 🔄 **Rodada 2 surpresa** (um dos sims 1–3, variável nova, sem aviso) · Fecho: 📓 **diário de erros #1** (10 min — protocolo no `13-diario-de-erros.md`) |
-| **SÁB 01/11** | 1 × 30 min | Manhã: **Sim 8 — Porto Sereno** · Tarde: NADA — logística (câmera, mic, doc, responsável) · **16h50 na sala → 17h–18h Entrevista Social** · Depois: descanso, zero estudo |
-| **DOM 02/11** | 4 blocos curtos | Manhã: 🥶 **Mock frio — Sim 6 (Zona Quente)**: card 60s → cenário → gravar → 12 min → UMA tentativa → armadilha → rubrica · Tarde: **Sim 9 — Praça das Luzes** · Fim de tarde: **Sim 10 — Feira do Cobre** (fecha o kit de 10) · Noite: 📓 **Revisão geral de erros** (20 min): 10 tabelas → papel "MEUS 3 VERMELHOS" |
-| **SEG 03/11** | 0 | **NADA.** Descanso total. Se a ansiedade pedir: 3 vermelhos + card (60s), só à noite |
-| **TER 04/11** | — | Manhã livre · almoço leve · **14h: card (60s) + 3 vermelhos (60s) — e fecha o papel** · chegada adiantada · **16h: dinâmica** |
+| **SEX 30/10 (hoje)** | 3 × 40 min | Manhã: **Sim 5 — Vila do Aterro** ⬜ pendente (abre só quando você mandar) · Tarde: **Sim 7 — Bairro do Carmo** ✅ 7,5 (feito "sem querer") · Noite: 🔄 **Rodada 2 surpresa** (um dos sims 1–3, variável nova, sem aviso) · Fecho: 📓 **diário de erros #1** (10 min — protocolo no `13-diario-de-erros.md`) |
+| **DOM 01/11** | 1 × 30 min | Manhã: **Sim 8 — Porto Sereno** · Tarde: NADA — logística (câmera, mic, doc, responsável) · **16h50 na sala → 17h–18h Entrevista Social** · Depois: descanso, zero estudo |
+| **SEG 02/11** | 4 blocos curtos | Manhã: 🥶 **Mock frio — Sim 6 (Zona Quente)**: card 60s → cenário → gravar → 12 min → UMA tentativa → armadilha → rubrica · Tarde: **Sim 9 — Praça das Luzes** · Fim de tarde: **Sim 10 — Feira do Cobre** (fecha o kit de 10) · Noite: 📓 **Revisão geral de erros** (20 min): 10 tabelas → papel "MEUS 3 VERMELHOS" |
+| **TER 03/11** | 0 | **NADA.** Descanso total. Se a ansiedade pedir: 3 vermelhos + card (60s), só à noite |
+| **QUA 04/11** | — | Manhã livre · almoço leve · **14h: card (60s) + 3 vermelhos (60s) — e fecha o papel** · chegada adiantada · **16h: dinâmica** |
 
 **Prioridade se o dia apertar (nesta ordem):** rodada 2 surpresa → mock frio → revisão geral → Sim 9 → Sim 10. Formato e revisão não se cortam; cenário sim.
 
