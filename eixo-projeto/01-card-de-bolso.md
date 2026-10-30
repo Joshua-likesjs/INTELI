@@ -18,7 +18,7 @@ mais que defender uma opção.
 
 | Dado | Âncora |
 |------|--------|
-| **87%** da população é urbana | Quase 9 em cada 10 brasileiros vivem em cidade — inclusive 2 milhões de pessoas no meio da floresta |
+| **87%** (guia oficial: 87,4%) da população é urbana | Quase 9 em cada 10 brasileiros vivem em cidade — inclusive 2 milhões de pessoas no meio da floresta |
 | **6M** de déficit habitacional | Uma metrópole amazônica inteira × 3, sem casa digna |
 | **73%** sujeitos a desastres | As cheias que o país viu — RS 2024, Manaus 2021 |
 | **90M** sem esgoto | Quase **metade do Brasil** |

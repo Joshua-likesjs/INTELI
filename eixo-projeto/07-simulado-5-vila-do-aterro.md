@@ -47,4 +47,4 @@ tonelagem. Nomeie os trade-offs: energia × emprego; app × cooperativa.
 
 | Data | Nota (0–10) | O que repetir na próxima |
 |------|-------------|--------------------------|
-| 30/10 | 7 | ARMADILHA MORTA sem ler: "c não é solução, é medidinha complementar; b é a base; painel de métricas junto com a coleta" — reproduziu sozinho a conclusão selada do kit. Recap de cenário ZERO ("todo mundo já leu, não precisa de explicação" — de 90s pra 15s). Trade-off limpo: incineração resolve segura × piora sustentável, "o problema é adiado, não resolvido" (cinzas). 2ª ordem própria: chuva → infiltra no aterro → aquífero → poço. Hedges honestos 2×. Vermelhos: abertura procedural (5º sim seguido); âncora 34M no domínio errado (água em cenário de resíduos — a chuva pedia 73%, tava a 1 centímetro) + "nosso guia" citado (2ª vez); fechamento "os 3 são bons, podemos usar os 3" = voto dissolvido (3ª ocorrência → recolhido ao vermelho 3). Detalhe da operadora-mesma-do-aterro servido de bandeja e não pego (pegou a incorporadora no sim 4 — inconsistente). Rubrica: 1+2+1+2+1 |
+|      |             |                          |

@@ -1,5 +1,24 @@
 # Rubrica de correção — 0 a 10
 
+> **Mapeamento oficial (edital PS 2027, item 6.3):** a dinâmica é avaliada por
+> competências — **Colaboração até 40 · Comunicação até 30 · Pensamento Crítico
+> até 30**. O edital NÃO publica rubrica detalhada (fica nas Diretrizes Eixo
+> Projeto, na Adalove). Os 5 critérios abaixo são **decomposição de treino**
+> dessas 3 competências:
+>
+> | Critério do kit | Competência oficial (edital 6.3) |
+> |---|---|
+> | 1. Humano primeiro | Comunicação — "se expressar de forma clara e apropriada" |
+> | 2. Lentes | Pensamento Crítico — "análises relevantes" |
+> | 3. Dado-âncora | Pensamento Crítico — dados do guia de autoestudo oficial |
+> | 4. 2ª ordem | Pensamento Crítico — "questionamentos ... desenvolvimento de soluções" |
+> | 5. Voz de grupo | Colaboração — "interagir e **agregar ideias**" + Comunicação — "**ouvir** as pessoas" |
+>
+> A nota final do PS é a **média aritmética dos 3 eixos** (edital 8.1) — o
+> Eixo Projeto vale 1/3 da nota final. Colaboração pesa 40/100 dentro do eixo:
+> por isso "os 3 são bons" (não agregar ideias, não buscar objetivo comum) é o
+> erro mais caro do kit.
+
 Cada resposta de simulado é corrigida em 5 critérios, **0–2 por item**.
 
 | # | Critério | 0 | 1 | 2 |
@@ -19,8 +38,6 @@ Cada resposta de simulado é corrigida em 5 critérios, **0–2 por item**.
    simulado.
 4. Na rodada 2, o alvo é **+2 no total** — não a nota máxima. Degrau por
    degrau.
-5. **Regra fixa (pedido do candidato, 30/10): toda resposta sai com nota
-   imediata — e com o placar geral atualizado. Sem VAR-request, sem espera.**
 
 ## Espelho de recall (auto-teste de cabeça, livro fechado)
 
