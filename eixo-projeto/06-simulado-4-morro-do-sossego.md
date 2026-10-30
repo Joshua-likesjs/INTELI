@@ -55,4 +55,4 @@ de instinto). Feche com trade-off nomeado: casa × deslocamento.
 
 | Data | Nota (0–10) | O que repetir na próxima |
 |------|-------------|--------------------------|
-|      |             |                          |
+| 30/10 | 6 | CAPITULAÇÃO: 1 empurrão do Rafa = "concordo totalmente" + troca de voto pra (a). Solo forte (incorporadora, 24 meses, custo do transporte) e entregue. Mecânica de grupo 10/10 (nomeou, citou, organizou, convidou discordância) — substância 0. Dilema falso não detectado: a resposta era (c) — chave AGORA pras 400 do talude. Âncora 12,6% disponível e não usada (3ª vez seguida). História da mãe = melhor momento humano da série |
