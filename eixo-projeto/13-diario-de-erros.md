@@ -24,7 +24,7 @@
 | # | Padrão | Onde apareceu | O antídoto (uma frase) |
 |---|--------|---------------|------------------------|
 | 1 | **Abertura sem gente** — estatística, procedimento ou "então, Rafa..." na 1ª frase | Sim 2, Sim 3, Sim 4, **Sim 7** (4 sims seguidos — HÁBITO CONFIRMADO). **Nunca deu 2 no critério 1** | Primeira frase = pessoa. "Tem gente pagando quartinho de cortiço a preço de apartamento." O dado entra DEPOIS, como reforço |
-| 2 | **Dado-âncora errático** — oscila entre não usar e metralhadora; reincide em dado sem fonte | Sims 1, 2, 3, 4, **Sim 7** (6M bom ✓ + "30% do aluguel" SEM FONTE pela 2ª vez — REINCIDÊNCIA após aviso) | UM por resposta, de memória, com a frase-âncora colada. Dado sem fonte certa → não fala |
+| 2 | **Dado-âncora errático** — oscila entre não usar e metralhadora | Sims 1, 2, 3, 4, 7. **CORREÇÃO 30/10: o 30%, o 6M/8,3% e o 16,4M estão SIM no guia oficial (ficha Moradia, Fundação João Pinheiro)** — flagra do árbitro anulado; âncoras validadas. O que resta do padrão: UM por resposta, de memória, com a frase colada | UM por resposta, de memória, com a frase-âncora colada. Fonte = guia oficial ou card — dado de fora desses → não fala |
 | 3 | **Capitulação por harmonia** — ceder o insight ou o nome da síntese pra comprar paz | Sim 4 r1, r2 — CURADO na r3, e o antídoto virou arma de abertura no sim 7 ("crítica não é briga"). Em monitorização: mantido, mas sem nova queda | "Discordar não é brigar — é o trabalho." Quem batiza a síntese, fica com ela |
 
 ## 🟡 Em observação (apareceu, ainda sem padrão confirmado)
