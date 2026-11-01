@@ -18,6 +18,7 @@
 | 8 — Porto Sereno | — | — | ⬜ |
 | 9 — Praça das Luzes | — | — | ⬜ |
 | 10 — Feira do Cobre | — | — | ⬜ reserva |
+| **— Jogo real (Wave)** | 31/10 | s/ nota | ✅ tema: **enchente — a do sim 1** · "a melhor dinâmica que já avalhei na vida", na palavra do avaliador |
 
 > **VAR do candidato: 3 recursos, 3 vitórias** (sim 3, sim 7 ×2 — o segundo
 > anulou erro de contagem do próprio árbitro). Recorrer COM FONTE é pensamento
@@ -33,6 +34,14 @@
 > alimenta as análises; gente agregando em cima das ideias dele é a definição
 > literal de Colaboração ("interagir e agregar ideias"): os 40 pontos mais
 > pesados do dia, respondidos pelo grupo, não impostos.
+>
+> **Tema confirmado em 31/10, à noite: enchente — exatamente o do sim 1
+> (Igarapé do Junco), a nota mais baixa do placar (4, em 27/10).** Cinco
+> dias depois, o mesmo tema numa roda de gente de verdade virou a melhor
+> dinâmica daquele avaliador. Lição de véspera: **nota baixa em simulado é
+> mapa, não sentença** — o 4 mostrou onde treinar; o Wave mostrou que o
+> treino entrou. Se o tema de quarta for um que hoje dói, o placar já diz
+> o que fazer com ele.
 
 ## 🔴 Os 3 vermelhos (padrões que se repetem — versão 30/10)
 

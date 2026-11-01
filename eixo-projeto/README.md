@@ -41,13 +41,13 @@ por **rubrica**, não por gabarito.
 
 ## Plano até o dia 4 (calendário completo — todos os sims + revisão de erros)
 
-**Feitos:** Sim 1 (4) · Sim 2 (7,5) · Sim 3 (7→8) · Sim 4 (6→8→9,5, roleplay selado) · Sim 5 (7) · Sim 7 (8) · **31/10: dinâmica real do Wave — "a melhor que já avalhei na vida", na palavra do avaliador**
+**Feitos:** Sim 1 (4) · Sim 2 (7,5) · Sim 3 (7→8) · Sim 4 (6→8→9,5, roleplay selado) · Sim 5 (7) · Sim 7 (8) · **31/10: dinâmica real do Wave — tema: enchente, a do sim 1 (nota 4 em 27/10) — "a melhor que já avalhei na vida", na palavra do avaliador**
 **Faltam:** Sim 6, 8, 9, 10 + rodada 2 surpresa + revisões.
 
 | Dia | Blocos | O que fazer |
 |-----|--------|-------------|
 | **SEX 30/10** | 3 × 40 min | Manhã: **Sim 5 — Vila do Aterro** ✅ 7 (armadilha morta sem ler) · Tarde: **Sim 7 — Bairro do Carmo** ✅ 8 (feito "sem querer") + ex. do Rafa 5→7,5 · Noite: 🔄 **Rodada 2 surpresa** (um dos sims 1–3, variável nova, sem aviso) · Fecho: 📓 **diário de erros #1** (10 min — protocolo no `13-diario-de-erros.md`) |
-| **SÁB 31/10 (hoje)** | 0 | **Jogo oficial:** dinâmica real do Wave com avaliador — "a melhor dinâmica que já avalhei na vida", na palavra dele; pensamento crítico e conhecimento técnico elogiados; o grupo concordou e complementou as ideias. Primeira vez com pessoas de verdade: o instinto transferiu. Noite: zero estudo novo — deixar assentar |
+| **SÁB 31/10 (hoje)** | 0 | **Jogo oficial:** dinâmica real do Wave com avaliador — **tema: enchente, a mesma do sim 1** (nota 4 em 27/10; cinco dias depois, o mesmo tema numa roda de verdade virou "a melhor dinâmica que já avalhei na vida", na palavra dele); pensamento crítico e conhecimento técnico elogiados; o grupo concordou e complementou as ideias. Primeira vez com pessoas de verdade: o instinto transferiu. Noite: zero estudo novo — deixar assentar |
 | **DOM 01/11** | 1 × 30 min | Manhã: **Sim 8 — Porto Sereno** · Tarde: NADA — logística (câmera, mic, doc, responsável) · **16h50 na sala → 17h–18h Entrevista Social** · Depois: descanso, zero estudo |
 | **SEG 02/11** | 4 blocos curtos | Manhã: 🥶 **Mock frio — Sim 6 (Zona Quente)**: card 60s → cenário → gravar → 12 min → UMA tentativa → armadilha → rubrica · Tarde: **Sim 9 — Praça das Luzes** · Fim de tarde: **Sim 10 — Feira do Cobre** (fecha o kit de 10) · Noite: 📓 **Revisão geral de erros** (20 min): 10 tabelas → papel "MEUS 3 VERMELHOS" |
 | **TER 03/11** | 0 | **NADA.** Descanso total. Se a ansiedade pedir: 3 vermelhos + card (60s), só à noite |
