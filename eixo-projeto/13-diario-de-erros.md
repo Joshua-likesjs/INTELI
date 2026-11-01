@@ -36,7 +36,7 @@
 > pesados do dia, respondidos pelo grupo, não impostos.
 >
 > **Tema confirmado em 31/10, à noite: enchente — exatamente o do sim 1
-> (Igarapé do Junco), a nota mais baixa do placar (4, em 27/10).** Cinco
+> (Igarapé do Junco), a nota mais baixa do placar (4, em 27/10).** Quatro
 > dias depois, o mesmo tema numa roda de gente de verdade virou a melhor
 > dinâmica daquele avaliador. Lição de véspera: **nota baixa em simulado é
 > mapa, não sentença** — o 4 mostrou onde treinar; o Wave mostrou que o
