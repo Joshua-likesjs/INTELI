@@ -4,7 +4,7 @@
 > que se repetem entre eles** — porque erro que aparece em 2+ sims não é
 > acidente, é hábito. Hábito tem nome, e nomeado, morre.
 
-## O placar geral (atualizado 30/10, fim de tarde)
+## O placar geral (atualizado 31/10, noite)
 
 | Sim | Data | Nota | Status |
 |-----|------|------|--------|
@@ -24,6 +24,16 @@
 > crítico treinado. Mas atenção: **quarta-feira não tem VAR** — o alvo agora é
 > a resposta certa no primeiro apito, porque a banca não ouve recurso.
 
+> **31/10 — jogo oficial (não passa pelo VAR):** dinâmica real do Wave, com
+> avaliador e pessoas de verdade — a primeira fora do papel. Na palavra do
+> avaliador: **"a melhor dinâmica que já avalhei na vida"** — elogiou
+> pensamento crítico e conhecimento técnico; o grupo concordou e
+> **complementou** as ideias. Sem nota de rubrica: o árbitro real já apitou.
+> O elogio mapeia o edital 6.3 — pensamento crítico (30) e a técnica que
+> alimenta as análises; gente agregando em cima das ideias dele é a definição
+> literal de Colaboração ("interagir e agregar ideias"): os 40 pontos mais
+> pesados do dia, respondidos pelo grupo, não impostos.
+
 ## 🔴 Os 3 vermelhos (padrões que se repetem — versão 30/10)
 
 | # | Padrão | Onde apareceu | O antídoto (uma frase) |
@@ -34,7 +44,7 @@
 
 ## 🟡 Em observação (apareceu, ainda sem padrão confirmado)
 
-- **Voz de grupo — substância:** teto de 1 nos sims 2–3 (convite genérico), 2/2 no sim 4 r2/r3, 7,5 no redo do Rafa (agradeceu a contribuição pelo nome). **Sim 5: 1 de novo** — convite só no fim, genérico ("Rafa, alguma crítica?"). Sem oportunidade de construir em cima de fala de colega (solo). Teste real: a surpresa e o sim 8 (participação popular).
+- **Voz de grupo — substância:** teto de 1 nos sims 2–3 (convite genérico), 2/2 no sim 4 r2/r3, 7,5 no redo do Rafa (agradeceu a contribuição pelo nome). **Sim 5: 1 de novo** — convite só no fim, genérico ("Rafa, alguma crítica?"). Sem oportunidade de construir em cima de fala de colega (solo). Teste real: a surpresa e o sim 8 (participação popular). **Evidência a favor (Wave, 31/10):** numa roda de verdade, os colegas construiram em cima das ideias dele — o quadro dele é "agregável"; falta o convite explícito na direção inversa (puxar o quieto pra dentro).
 - **Resposta invertida:** Q4 do sim 2 saiu veredito antes de testar a premissa. Vigiar em cenário de brinde (sim 5 é o teste perfeito: o painel IoT da água, versão lixo).
 - **Re-explicar o cenário pra sala** (sim 4 r1, sim 7): ~90s de recapitulação — ar de recitação, come tempo de fala. **PROGRESSO REAL no sim 5: recap zero ("todo mundo já leu") + 15s de contexto.** Zerar na surpresa e no sim 8 → promote 🟢 força.
 - **Voto não dito no fim** → RECOLHIDO ao vermelho 3 em 30/10 (3ª ocorrência, agora como dissolução: "os 3 são bons"). Ver lá.
@@ -50,6 +60,7 @@
 - **Frases próprias** que nasceram em simulado: "elitizar a água" (sim 3), "o talude não precisa de gente pra desabar, só de chuva" (sim 4), "devolver a honra de ter uma moradia digna" (sim 7, ex. Rafa), "o problema não é resolvido, só adiado" (sim 5, cinzas da usina), "cada real em saneamento volta 4 em saúde" (ÂMBITO: só com fonte confirmada)
 - **Conceitos dominados e nomeados em voz alta:** gentrificação — definida, aplicada e situada em Manaus (sim 7); economia do cortiço (sim 7)
 - **Vivência usada com moderação:** Jorge Teixeira (sim 3), mãe/muro/talude (sim 4) — credencial, não discurso
+- **Confirmação externa (Wave, 31/10):** o avaliador elogiou exatamente pensamento crítico + técnica — o que este diário marca como 2/2 desde o sim 3. Árbitro de verdade, mesmo placar.
 
 ## Protocolo das revisões
 
