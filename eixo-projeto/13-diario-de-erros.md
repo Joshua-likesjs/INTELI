@@ -4,7 +4,7 @@
 > que se repetem entre eles** — porque erro que aparece em 2+ sims não é
 > acidente, é hábito. Hábito tem nome, e nomeado, morre.
 
-## O placar geral (atualizado 31/10, noite)
+## O placar geral (atualizado 02/11, 1h40 — D-1: a dinâmica é TERÇA 03/11, não quarta 04/11)
 
 | Sim | Data | Nota | Status |
 |-----|------|------|--------|
@@ -82,11 +82,13 @@
 1. As 10 tabelas de rodada abertas na mesa.
 2. Contar recorrências; fechar os 3 vermelhos FINAIS.
 3. Escrever à mão num papel: **"MEUS 3 VERMELHOS"** + a frase-antídoto de cada.
-4. Esse papel + card de bolso = o ÚNICO material do dia 04/11 até as 14h.
+4. Esse papel + card de bolso = o ÚNICO material do dia 03/11 até o ritual de
+   véspera.
 
-## Dia 4 — o uso real
+## Dia 3 — o uso real (D-1 confirmado em 02/11: a dinâmica é terça 03/11)
 
-05/11 de manhã NÃO existe mais: no dia 4, 14h, card (60s) + 3 vermelhos (60s) e
+03/11 de manhã NÃO existe: ~2h antes do apito (14h, se for 16h), card (60s) +
+3 vermelhos (60s) + 1 leitura em voz alta da apresentação (arquivo 14) — e
 fecha o papel. O objetivo da semana inteira é reduzir a preparação de 6 dias a
 **duas folhas de papel** — porque na antessala da dinâmica, quem tem 6 dias de
 material na cabeça tem ansiedade; quem tem 2 folhas tem plano.

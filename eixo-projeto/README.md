@@ -1,7 +1,8 @@
 # Eixo Projeto — Kit de Simulados (dinâmica de grupo)
 
 Materiais de estudo para a **dinâmica de grupo do Eixo Projeto** do processo
-seletivo da Inteli, agendada para **04/11 às 16h**.
+seletivo da Inteli, agendada para **terça, 03/11** (atualizado em 02/11 —
+era 04/11; horário presumido 16h).
 
 Diferente dos simulados de matemática (questões com gabarito fechado), aqui
 o treino é **qualitativo**: cenários no formato das fichas do guia oficial
@@ -25,6 +26,7 @@ por **rubrica**, não por gabarito.
 | 11 | [`11-simulado-9-praca-das-luzes.md`](11-simulado-9-praca-das-luzes.md) | Espaço público e segurança — segura + inclusiva |
 | 12 | [`12-simulado-10-feira-do-cobre.md`](12-simulado-10-feira-do-cobre.md) | Economia popular e alimentação — inclusiva + sustentável (reserva) |
 | 13 | [`13-diario-de-erros.md`](13-diario-de-erros.md) | Placar geral + 3 vermelhos + forças + protocolo de revisão — leitura de véspera |
+| 14 | [`14-apresentacao-2min.md`](14-apresentacao-2min.md) | A apresentação de 2 min pra abrir a dinâmica — minada das 2 redações + história do professor Sandiego; mapa de 5 blocos, frases-âncora e cartuchos de reserva |
 | — | [`Inteli-Eixo-Projeto-Simulado-2-Distrito-Norte.pdf`](Inteli-Eixo-Projeto-Simulado-2-Distrito-Norte.pdf) | Simulado 2 em PDF para revisão do mentor: cenário + resposta em transcrição + rubrica aplicada + perguntas de calibração |
 
 ## Como usar
@@ -39,25 +41,19 @@ por **rubrica**, não por gabarito.
 5. Dias depois, repita o mesmo cenário em rodada 2 — a tabela de rodadas no
    fim de cada simulado registra nota e o que repetir.
 
-## Plano até o dia 4 (calendário completo — todos os sims + revisão de erros)
+## Plano até o dia 3 — D-1 (atualizado 02/11, 1h40: o grande dia é TERÇA 03/11, não quarta 04/11)
 
 **Feitos:** Sim 1 (4) · Sim 2 (7,5) · Sim 3 (7→8) · Sim 4 (6→8→9,5, roleplay selado) · Sim 5 (7) · Sim 7 (8) · **31/10: dinâmica real do Wave — tema: enchente, a do sim 1 (nota 4 em 27/10) — "a melhor que já avalhei na vida", na palavra do avaliador**
-**Faltam:** Sim 6, 8, 9, 10 + rodada 2 surpresa + revisões.
+**Faltam (o que couber no D-1):** ensaio da apresentação (arquivo 14) → papel dos 3 vermelhos → mock frio (Sim 6) → Sim 8. **Sim 9 e 10: cortados** — o cortável existe pra isso.
 
 | Dia | Blocos | O que fazer |
 |-----|--------|-------------|
-| **SEX 30/10** | 3 × 40 min | Manhã: **Sim 5 — Vila do Aterro** ✅ 7 (armadilha morta sem ler) · Tarde: **Sim 7 — Bairro do Carmo** ✅ 8 (feito "sem querer") + ex. do Rafa 5→7,5 · Noite: 🔄 **Rodada 2 surpresa** (um dos sims 1–3, variável nova, sem aviso) · Fecho: 📓 **diário de erros #1** (10 min — protocolo no `13-diario-de-erros.md`) |
-| **SÁB 31/10 (hoje)** | 0 | **Jogo oficial:** dinâmica real do Wave com avaliador — **tema: enchente, a mesma do sim 1** (nota 4 em 27/10; quatro dias depois, o mesmo tema numa roda de verdade virou "a melhor dinâmica que já avalhei na vida", na palavra dele); pensamento crítico e conhecimento técnico elogiados; o grupo concordou e complementou as ideias. Primeira vez com pessoas de verdade: o instinto transferiu. Noite: zero estudo novo — deixar assentar |
-| **DOM 01/11** | 1 × 30 min | Manhã: **Sim 8 — Porto Sereno** · Tarde: NADA — logística (câmera, mic, doc, responsável) · **16h50 na sala → 17h–18h Entrevista Social** · Depois: descanso, zero estudo |
-| **SEG 02/11** | 4 blocos curtos | Manhã: 🥶 **Mock frio — Sim 6 (Zona Quente)**: card 60s → cenário → gravar → 12 min → UMA tentativa → armadilha → rubrica · Tarde: **Sim 9 — Praça das Luzes** · Fim de tarde: **Sim 10 — Feira do Cobre** (fecha o kit de 10) · Noite: 📓 **Revisão geral de erros** (20 min): 10 tabelas → papel "MEUS 3 VERMELHOS" |
-| **TER 03/11** | 0 | **NADA.** Descanso total. Se a ansiedade pedir: 3 vermelhos + card (60s), só à noite |
-| **QUA 04/11** | — | Manhã livre · almoço leve · **14h: card (60s) + 3 vermelhos (60s) — e fecha o papel** · chegada adiantada · **16h: dinâmica** |
+| **SEG 02/11 (hoje — D-1)** | 3 curtos | **1h40 da manhã: DORMIR — a apresentação já tá pronta (arquivo 14), não se ensaia de madrugada** · Manhã: 🎤 **ensaio da apresentação de 2 min** (15 min: 3 leituras em voz alta + 1 gravação no celular) · Meio-dia: 🥶 **mock frio — Sim 6 (Zona Quente)**: card 60s → cenário → gravar → 12 min → UMA tentativa → armadilha → rubrica · Fim de tarde: **Sim 8 — Porto Sereno** (se não fez domingo; 30 min — voz de grupo é o último amarelo aberto) · Noite: 📓 **revisão geral de erros** (20 min): tabelas dos sims feitos → papel "MEUS 3 VERMELHOS" + card · **dormir CEDO** |
+| **TER 03/11 — O GRANDE DIA** | 0 estudo | Manhã livre · almoço leve · **~2h antes do apito (14h, se 16h): card (60s) + 3 vermelhos (60s) + 1 leitura em voz alta da apresentação — e fecha o papel** · chegada adiantada · **16h: a dinâmica** |
 
-**Prioridade se o dia apertar (nesta ordem):** rodada 2 surpresa → mock frio → revisão geral → Sim 9 → Sim 10. Formato e revisão não se cortam; cenário sim.
+**Prioridade se o dia apertar (nesta ordem):** ensaio da apresentação → papel dos 3 vermelhos → mock frio → Sim 8. Apresentação e papel não se cortam; o resto, sim.
 
-**Sim 10 é o cortável por design** — se o 02/11 engrossar, ele vira leitura leve.
-
-**Regra da semana:** tempo extra = espaçamento, não volume. O inimigo não é
-falta de material — é a diluição ("deixo pra amanhã" sete vezes seguidas).
-Bloco curto por dia (30–40 min) e para. Se a noite cair, deslize tudo 1 dia:
-o colchão é o descanso do 03/11.
+**Regra da semana (mantém):** tempo extra = espaçamento, não volume. Em D-1,
+o colchão é o sono — apresentação de 2 minutos se entrega com cabeça
+descansada, não com mais uma leitura à 1h da manhã. O que não couber hoje,
+não acontece — e tá tudo bem: o essencial já tá pronto.
