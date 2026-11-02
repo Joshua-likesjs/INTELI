@@ -1,114 +1,96 @@
 # Apresentação de 2 minutos — a abertura da dinâmica
 
-> **v2 — 02/11, 2h da manhã, a pedido do candidato:** "mais sobre mim, sem
-> nome completo, tom menos robótico — é apresentação pro grupo + ponte com
-> a aplicadora". O candidato aplicou o próprio vermelho #1 da rubrica
-> (humano primeiro) ao rascunho v1 — a correção foi aceita.
-> Fontes: as 2 redações (Armaggedon/OBR e TALON, coladas no chat em 02/11),
-> o arquivo de contexto do processo e a história do professor Sandiego
-> (recomendador #2, FMM). **Nada inventado: cada frase tem dono.**
+> **v3 — 02/11, ~2h15:** feedback do candidato — "sem detalhe doméstico, sem
+> aparentar competência, sem slogan na abertura". Correto: a regra
+> "humano primeiro" vale pra cenário ODS (a pessoa antes da estatística),
+> NÃO pra apresentação pessoal — aplicada ali, vira apelação que o avaliador
+> lê em 2 segundos. v3 = **fatos em tom de conversa.** Nada inventado: cada
+> frase tem dono (as 2 redações coladas em 02/11 + contexto do processo +
+> professor Sandiego).
 
 ## O discurso (texto limpo — é esse que se fala)
 
-> Eu sou o Josué, do Jorge Teixeira, aqui de Manaus. Pra vocês me
-> conhecerem rápido: eu acordo às quatro da manhã pra fazer o café da minha
-> mãe antes dela sair pro trabalho, e às cinco e dez já tô na lotação,
-> atravessando a cidade pra estudar. O meu dia começa antes do sol.
+> Eu sou o Josué, de Manaus. Tô no terceiro ano na Fundação Matias
+> Machline e sou monitor do clube de programação da escola. E é isso que eu
+> faço: transformo problema real em código.
 >
-> O que me define: eu aprendo melhor quando o problema é real. Quando
-> aparece um sensor que ninguém sabe usar, eu vou atrás sozinho — vídeo em
-> inglês, documentação, código dos outros — até virar meu. Resolver problema
-> é o que eu faço de melhor, ainda mais com tecnologia no meio. E
-> conhecimento só vale quando circula: sou monitor do clube de programação
-> da minha escola — explicar é o meu jeito de aprender de novo.
+> No curso técnico, meu grupo construiu o TALON — um colar de rastreamento
+> pra gado: ESP32, GPS e 4G, mandando posição e bateria pro banco em tempo
+> real. A placa era nova, ninguém na escola conhecia — então aprendi o modem
+> do zero, com documentação e o código dos outros. E como o colar ficava no
+> meio do mato, o código aprendeu a não desistir: sem GPS, procura; sem
+> internet, tenta reconectar. Na feira técnica, o professor de embarcados
+> disse que ficou impressionado com a placa — e com um código que ele
+> próprio ainda não conhecia. Ficou tudo em repositório público, com
+> documentação, pra quem vier depois ter um caminho mais curto.
 >
-> Prova rápida: na Olimpíada Brasileira de Robótica, minha equipe passou
-> cinco meses num robô seguidor de linha — o código era meu. O sol enganava
-> os sensores; em vez de semanas afinando o controle clássico, questionei a
-> premissa e reescrevi do meu jeito — quando a luz do sol mentia, a física
-> não mentia. Campeões da modalidade de inovação. Mas o melhor virou minha
-> definição de equipe: a Armaggedon não tinha hierarquia, tinha acordo —
-> hardware com o Yuri, software comigo, peça do Caio, ideia da Suelen.
-> Antes, no curso técnico, programei o TALON — colar de rastreamento, ESP32
-> e GPS — e publiquei tudo em repositório público.
+> Depois veio a robótica: a Olimpíada Brasileira de Robótica, cinco meses
+> num robô seguidor de linha. Eu escrevia o código; o hardware era do Yuri;
+> o Caio bancava as peças quando o dinheiro apertava; a ideia do sensor de
+> inclinação foi da Suelen. O controle clássico da categoria travava com o
+> sol do pátio — em vez de passar semanas afinando o que tava errado,
+> questionei a premissa e reescrevi: o robô reencontrava a linha em vez de
+> lutar contra ela. Ficamos campeões da modalidade de inovação.
 >
-> Essa disciplina tem raiz: estudo de bolsa em bolsa, por mérito, desde
-> pequeno — hoje na Fundação Matias Machline, que entrei por vestibular
-> próprio. Funcionou três vezes: a oportunidade abre a porta, o desempenho
-> me mantém dentro.
->
-> Conheci a Inteli pelo meu professor Sandiego. Quando vi que aqui a
-> formação acontece em projeto, com prazo e gente, reconheci o padrão na
-> hora: é o jeito que eu já aprendo. Meter a mão na massa não é detalhe pra
-> mim, é método. Por isso quero Engenharia de Software — e, no longo prazo,
-> ser tech lead: o que a Armaggedon me ensinou — não é quem manda, é quem
-> mantém o acordo funcionando. E quero ser o engenheiro que mantém aberta a
-> porta por onde a minha equipe entrou.
+> Conheci a Inteli pelo meu professor Sandiego. Fui estudar a faculdade e
+> reconheci o jeito que eu já tenho de aprender: projeto, prazo e gente —
+> meter a mão na massa. Por isso Engenharia de Software — e, no longo
+> prazo, tech lead. E é por isso que eu tô animado com essa dinâmica:
+> problema real, gente de verdade — é o meu formato favorito.
 
-## O mapa de 5 blocos (decorar ISSO, não as palavras)
+## O mapa de 4 blocos (decorar ISSO, não as palavras)
 
 | # | Bloco | Tempo | O que faz |
 |---|-------|-------|-----------|
-| 1 | Eu, em casa | 0:00–0:20 | café da mãe, lotação — o humano primeiro (o teu vermelho #1, aplicado à tua própria abertura) |
-| 2 | Como eu funciono | 0:20–0:50 | problema real, autodidata, explicar = aprender de novo |
-| 3 | As provas | 0:50–1:30 | robô + acordo + TALON — a maturidade técnica |
-| 4 | De onde vem | 1:30–1:45 | bolsa por mérito ×3 — a raiz da disciplina |
-| 5 | Inteli + fecho | 1:45–2:10 | Sandiego, método, tech lead, a porta |
+| 1 | Quem sou | 0:00–0:12 | nome, cidade, escola, monitoria — 3 fatos e a função |
+| 2 | TALON | 0:12–0:55 | o que eu faço: autonomia + código que não desiste |
+| 3 | OBR | 0:55–1:30 | equipe com nomes + questionar premissa + título |
+| 4 | Inteli + fecho | 1:30–1:55 | Sandiego, método, ES/tech lead, fecha a roda |
 
-## As 3 frases-âncora (entregar DEVAGAR, meio segundo de pausa antes)
+## Tempo (v3, contado em 02/11)
 
-1. "O meu dia começa antes do sol."
-2. "A Armaggedon não tinha hierarquia, tinha acordo."
-3. "Meter a mão na massa não é detalhe pra mim, é método."
+**292 palavras** (contagem real): **1:49** no passo vivo (160/min) · **1:56**
+no calmo (150/min) · **2:05** se armar pausa longa (140/min). Cai dentro de
+"uns 2 minutos" **sem cortar nada** — e se sobrar tempo, melhor: quem fecha
+antes do cronômetro passa confiança, não pressa. Se pedirem mais, os
+cartuchos de reserva abaixo são a extensão natural — não estica o discurso.
 
-## Tempo (v2, contado em 02/11)
+## Frase-âncora (uma só, se quiser um color — é a única autorizada)
 
-**355 palavras** (contagem real): 2:13 no passo vivo (160/min) · 2:22 no
-passo calmo (150/min). **Alvo da gravação: ≤ 2:15.** Escada de cortes (em
-ordem, se estourar — somam ~17s):
-
-1. "— quando a luz do sol mentia, a física não mentia." (~4s — dói, mas o bloco 3 aguenta)
-2. "Funcionou três vezes: a oportunidade abre a porta, o desempenho me mantém dentro." (~5s)
-3. "atravessando a cidade pra estudar" (~2s)
-4. ÚLTIMO RECURSO: fecho curto — "…quero Engenharia de Software — e, no longo prazo, ser tech lead." — e mantém a frase da porta (~6s)
+- "Em vez de afinar o que tava errado, questionei a premissa." — entrega devagar.
 
 ## Por que cada bloco existe (mapa pro edital 6.3)
 
 | Bloco | Planta | Por quê |
 |-------|--------|---------|
-| 1 | Comunicação 30 + quebra de gelo | quem abre com gente vira gente na roda — e a aplicadora escuta pessoa, não currículo |
-| 2 | Pensamento Crítico 30 | autodidata nomeado como método, não como pena |
-| 3 | PC 30 + Colaboração 40 | questionar premissa + "acordo" com a equipe nomeada = "interagir e agregar", literal |
-| 4 | Caráter | disciplina com raiz — sem pedir pena, sem número de renda |
-| 5 | Comunicação 30 | última frase = posição assinada (a regra dos teus fechamentos) |
+| 1 | Comunicação 30 | 3 fatos secos = quem fala simples passa segurança |
+| 2 | Pensamento Crítico 30 | placa desconhecida → aprendeu sozinho → código que tenta de novo |
+| 3 | PC 30 + Colaboração 40 | equipe nomeada com papel de cada um + recusar solução pronta |
+| 4 | Comunicação 30 | motivo claro + fecho que abre a conversa, não encerra pitch |
 
-## Cartuchos de reserva (se perguntarem — 10–15s cada, sem discurso)
+## Cartuchos de reserva (se perguntarem ou sobrar espaço — 10–15s cada)
 
 - **OBMEP, bronze** — 7º ano, escola pública, um dos únicos da escola: "colocou a escola no mapa de Manaus"
 - **OBI** — classificado pra 3ª fase
 - **FMM com bolsa 100%** — vestibular próprio, ~4.000 candidatos pra ~370 vagas
 - **2 sistemas em produção**: TALON (deploy vivo na Vercel) e backend bancário em Go no Railway
-- Professor de embarcados na feira técnica: impressionado com a placa e um código que ele próprio não conhecia
-- No OBR: campeões de inovação **e em oitavo no geral** entre mais de vinte equipes — "o título premiou a coragem de recusar soluções prontas; o oitavo mede o quanto ainda havia a se preparar"
-- Como o robô vencia o sol: vinte leituras pra confirmar um obstáculo, quinze no mínimo — nenhuma decisão saía de leitura única
-- A placa do TALON: ninguém na escola conhecia de perto — aprendi o modem do zero, com documentação
+- No OBR: campeões de inovação **e em oitavo no geral** entre mais de vinte equipes — "o título premiou recusar soluções prontas; o oitavo mede o quanto ainda havia a se preparar"
+- Como o robô vencia o sol: vinte leituras pra confirmar um obstáculo, quinze no mínimo — decisão nunca saía de leitura única
+- A frase do sol, se pedirem detalhe técnico: "quando a luz do sol mentia pros sensores, a física não mentia — o sensor de inclinação media a rampa, cego pro sol"
 
 ## Notas de uso
 
-- **Sem nome completo.** "Eu sou o Josué" — ninguém chama candidato de
-  "Freitas da Silva" numa roda; o nome que eles vão usar é o que tu entrega.
-- **A apresentação é também socialização** (pedido do candidato): fala
-  olhando a roda E a aplicadora — o café da mãe às 4h é a ponte; entrega
-  como conversa, não como discurso. Quando os colegas se apresentarem,
-  reage e guarda os NOMES ("valeu, Rafa") — na primeira intervenção, usa o
-  nome de alguém: é a pontinha mais barata que existe.
-- **Não ensaiar de madrugada** (são 2h — isso aqui é leitura, não ensaio).
-  Protocolo de manhã: 3 leituras em voz alta marcando onde tu respiras + 1
-  gravação no celular. 15 minutos, no máximo. Me manda — a nota de
-  Comunicação sai na hora.
-- Se travar numa palavra na roda, o mapa salva: 5 blocos, nessa ordem.
-- Depois da apresentação, NÃO repetir "acordo" e "circula" como conceito:
-  **demonstra** — puxa o quieto, cita colega pelo nome, atravessa fronteira
-  quando o problema pesar.
-- Horário presumido 16h (agenda original); se for outro, o ritual de véspera
-  desloca junto — sempre ~2h antes do apito.
+- **Sem slogan, sem apelo, sem número de telefone emocional.** Fato fala.
+  A divisão de trabalho do OBR entra como fato ("hardware do Yuri, código
+  meu") — o avaliador conclui sozinho que tu sabe trabalhar em equipe;
+  bater isso com rótulo ("líder", "acordo") é que soa a pitch.
+- **"Eu sou o Josué"** — o nome que tu entrega é o nome que eles usam.
+- Socialização: fala olhando a roda E a aplicadora; quando os colegas se
+  apresentarem, reage e **guarda os nomes** — na primeira intervenção tua,
+  usa o nome de alguém ("concordo com o Rafa…").
+- Não ensaiar de madrugada (são 2h — isso aqui é leitura). Protocolo de
+  manhã: 3 leituras em voz alta + 1 gravação no celular, 15 min, me manda —
+  nota de Comunicação na hora.
+- Depois da apresentação: **demonstra** em vez de repete — puxa o quieto,
+  cita colega pelo nome, atravessa fronteira quando o problema pesar.
+- Horário presumido 16h; se for outro, o ritual desloca junto (~2h antes).
