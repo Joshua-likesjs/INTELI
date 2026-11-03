@@ -20,9 +20,11 @@
 | 10 — Feira do Cobre | — | — | ⬜ reserva |
 | **— Jogo real (Wave)** | 31/10 | s/ nota | ✅ tema: **enchente — a do sim 1** · "a melhor dinâmica que já avalhei na vida", na palavra do avaliador |
 
-> **VAR do candidato: 3 recursos, 3 vitórias** (sim 3, sim 7 ×2 — o segundo
-> anulou erro de contagem do próprio árbitro). Recorrer COM FONTE é pensamento
-> crítico treinado. Mas atenção: **quarta-feira não tem VAR** — o alvo agora é
+> **VAR do candidato: 4 recursos — 3 vitórias + 1 parcial** (sim 3, sim 7 ×2
+> — o segundo anulou erro de contagem do próprio árbitro; e a apresentação,
+> 02/11: o cronômetro dele, 1:56, derrubou a projeção do árbitro e 2 decisões
+> de lente — 3 de 4 pontos procedentes). Recorrer COM FONTE é pensamento
+> crítico treinado. Mas atenção: **terça não tem VAR** — o alvo agora é
 > a resposta certa no primeiro apito, porque a banca não ouve recurso.
 
 > **31/10 — jogo oficial (não passa pelo VAR):** dinâmica real do Wave, com
