@@ -1,43 +1,39 @@
 # Apresentação de 2 minutos — a abertura da dinâmica
 
-> **v8 FINAL — 02/11, meia-noite: TEXTO DO CANDIDATO, mantido por decisão
-> dele após recurso COM CRONÔMETRO (1:56 medido).** Recurso #4 do processo:
-> procedente em parte — 3 de 4 pontos do árbitro derrubados. Concessões do
-> árbitro: (i) o texto DELE é 16s mais curto que a v7 no cronômetro dele;
-> (ii) "Traking"≡"Tracking" na PRONÚNCIA — erro de grafia é invisível na
-> fala, análise anterior usava lente de redação num texto de fala; (iii)
-> typos ("escoli", "com prazo com pessoas") não existem na fala. Nome
-> completo do TALON MANTIDO — ele lê fluido (1:56 com a expansão inteira).
-> Os 2 consertos da v8: frase das ideias (referente do "essas ideias") e
-> placeholder preenchido. **344 palavras = 2:09–2:14 no ritmo medido
-> (154/min). Válvula: cláusula da big tech (−6s).**
+> **v9 FINAL — TRAVADA em 03/11, 0h03 (dia de jogo).** Texto do candidato,
+> mantido por decisão dele após recurso COM CRONÔMETRO (1:56 medido =
+> 154/min). v8 saiu pela metade da edição (fadiga); o árbitro travou o jogo
+> e aplicou os 4 consertos — como no Sim 7. Fatos conferidos contra as 2
+> redações do Eixo Perfil, o repo github.com/Joshua-likesjs/TALON e o
+> contexto do processo. **343 palavras = 2:08–2:13 no ritmo MEDIDO.**
+>
+> **🔒 REGRA: TEXTO TRAVADO.** Sem nova versão, sem nova leitura hoje.
+> Uma leitura cronometrada no ritual das 14h. Ponto.
 
-## Changelog (a noite em 8 versões)
+## Changelog (a noite em 9 versões)
 
 - v1 (1h40): currículo falado · v2 (2h): apelo doméstico · v3 (2h15): fatos
-  secos · v4 (23h30): B1 dele + reedições — nota 9 · v5/v6: calibração por
-  cronômetro · v7: texto dele + 4 fixes do árbitro (2:12 projetado)
-- **v8 (meia-noite): RECURSO DO CANDIDATO deferido em parte — o texto volta
-  a ser DELE, na redação dele, com 2 consertos. 1:56 medido é o número
-  dele; 2:09–2:14 é a projeção com os 2 consertos.** TEXTO TRAVADO.
+  secos · v4 (23h30): B1 dele — nota 9 · v5–v7: calibração por cronômetro +
+  fixes · **v8 (meia-noite): recurso #4 dele deferido em parte — texto volta
+  a ser DELE ("Traking"≡"Tracking" na fala; typos invisíveis; nome completo
+  mantido; texto dele 16s mais curto que a v7)** · v9 (0h03): os 2 consertos
+  que faltavam + corte do "não tão técnicos". FIM.
 
-## Os 2 consertos da v8 (os únicos defeitos REAIS na fala)
+## Os 4 consertos aplicados (defeitos REAIS na fala)
 
-1. **O "aquilo" órfão.** "Minha parte foi transformar **aquilo** em código"
-   — no texto dele, Isaque e Ismael só cuidavam de documentação e
-   apresentação: não existia "aquilo" pra transformar. A frase das ideias
-   (cerca virtual do Isaque · posição-só-quando-muda do Ismael) não é
-   enfeite: é o referente da frase E os 40 pontos de Colaboração.
-2. **Placeholder em aberto** ("[falar de como destrinchou a placa]") →
-   virou frase: "A placa era nova, nenhum professor conhecia — destrinchei o
-   modem do zero, na documentação e no código dos outros."
+1. **"Aquilo/ideias" órfão** → frase das ideias restaurada: cerca virtual do
+   Isaque · posição-só-quando-muda do Ismael. Referente de "essas ideias" E
+   os 40 pontos de Colaboração.
+2. **Placeholder preenchido**: "A placa era nova, nenhum professor conhecia
+   — destrinchei o modem do zero, na documentação e no código dos outros."
+3. **"E eles não eram tão técnicos" cortado** — "de uma maneira que eles
+   entendessem" já diz; o resto pode soar superioridade na orelha do
+   avaliador.
+4. **Preenchimentos de fala**: "escoli"→escolhi · "com prazo com
+   pessoas"→"com prazo, com pessoas" · maiúsculas em Microsoft/Google (só
+   existem no papel — na fala não muda nada; grafia certa é hábito).
 
-Corte recomendado (não travado): "e eles não eram tão técnicos" —
-"de uma maneira que eles entendessem" já diz; o resto adiciona uma nota
-abaixo que a orelha do avaliador pode ouvir como superioridade. Com o corte:
-9,5. Sem: 9.
-
-## O discurso (v8 — texto do candidato, é esse que se fala)
+## O discurso (v9 — é esse que se fala, palavra por palavra)
 
 > Opa, boa tarde — meu nome é Josué, sou aqui de Manaus, Amazonas, aluno da
 > Fundação Matias Machline. Sempre gostei de matemática e de resolução de
@@ -60,7 +56,7 @@ abaixo que a orelha do avaliador pode ouvir como superioridade. Com o corte:
 > da apresentação — e as duas melhores ideias do sistema vieram deles: a
 > cerca virtual foi do Isaque; registrar a posição só quando ela muda de
 > verdade, do Ismael. Minha parte foi transformar essas ideias em código, e
-> explicar tudo que rodava por trás, de uma maneira que eles entendessem —
+> explicar tudo que rodava por trás, de uma maneira que eles entendessem,
 > porque o trabalho também era deles.
 >
 > Conheci a Inteli por um professor da área técnica, o Sandiego, que citou
@@ -78,7 +74,7 @@ abaixo que a orelha do avaliador pode ouvir como superioridade. Com o corte:
 | 1 | Quem sou | 0:00–0:30 | nome, cidade, escola, vocação, monitor, robótica |
 | 2 | TALON | 0:30–1:12 | colar → plataforma → placa nova → modem do zero |
 | 3 | Equipe | 1:12–1:40 | ideias deles (por nome) → código meu → "também era deles" |
-| 4 | Inteli | 1:40–2:14 | Sandiego → pesquisei → ES → tech lead/CTO → "tô aqui hoje" |
+| 4 | Inteli | 1:40–2:13 | Sandiego → pesquisei → ES → tech lead/CTO → "tô aqui hoje" |
 
 **Onde respira** (meio segundo): antes de "Sou uma pessoa prática" ·
 depois de "código dos outros" · antes de "as duas melhores ideias" · antes
@@ -87,7 +83,7 @@ de "Por isso escolhi".
 ## Tempo (números medidos, sem maquiação)
 
 - Ritmo do candidato MEDIDO: **154/min** (297 palavras em 1:56, meia-noite).
-- v8 (344 palavras): **2:09–2:14**. "Uns 2 minutos" aguenta.
+- v9 (343 palavras): **2:08–2:13**. "Uns 2 minutos" aguenta.
 - **Válvula (só se a leitura das 14h passar de 2:15):** "e meu grande
   objetivo é trabalhar em uma big tech como Microsoft ou Google, por
   exemplo" (~6s) — o arco tech lead→CTO já mostra a ambição.
@@ -108,15 +104,15 @@ de "Por isso escolhi".
   o sol enganava os sensores — questionei a premissa do controle clássico e
   reescrevi; decisão nunca saía de leitura única
 
-## Notas de uso (o dia do jogo)
+## Notas de uso (o dia do jogo — HOJE)
 
 - "Opa, boa tarde" — e deixa a sala responder.
 - Fala olhando a roda E a aplicadora; guarda os NOMES dos colegas — na
   primeira intervenção, usa o nome de alguém.
 - Depois da apresentação, **demonstra**: puxa o quieto, cita colega pelo
   nome, atravessa fronteira quando o problema pesar.
-- **Ritual de terça, ~14h:** card (60s) + 3 vermelhos (60s) + **1 leitura
+- **Ritual de ~14h:** card (60s) + 3 vermelhos (60s) + **1 leitura
   cronometrada** (2:15+ → válvula) — e fecha o papel. Chegada adiantada.
   **16h: bola rolando.**
-- **Grafia, só se algum dia escrever o nome:** T-R-A-C-K-I-N-G, com C. Na
-  fala, é o mesmo som — sempre foi.
+- Na fala, "Traking"≡"Tracking" — mesmo som, sempre foi. Se um dia
+  ESCREVER: com C.
